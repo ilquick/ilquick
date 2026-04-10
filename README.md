@@ -5,3 +5,5 @@
 - 👯 In the future, I would like to make an emulator.
 - 🤔 I’m looking for help with 
 - 📫 How to reach me: Isaiahlquick@gmail.com
+
+
