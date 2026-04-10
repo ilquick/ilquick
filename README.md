@@ -8,9 +8,3 @@
 
 
 ![My profile banner](./hadder.gif)
-
-
-
-
-
-![My profile banner](./hi.png)   ![My profile banner](./hi.png)  ![My profile banner](./hi.png)
