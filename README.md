@@ -1,7 +1,3 @@
-![My profile banner](./hi.png)
-
-
-
 ## Hi there 👋
 
 - 🔭 I’m currently working on emulating things and coding servers. 
