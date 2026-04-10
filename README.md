@@ -6,4 +6,3 @@
 - 🤔 I’m looking for help with 
 - 📫 How to reach me: Isaiahlquick@gmail.com
 
-
